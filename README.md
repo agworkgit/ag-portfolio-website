@@ -41,7 +41,7 @@ The following image shows the web application's appearance and functionality:
 
 > **Note**: This layout is designed to be responsive.
 
-The following link will take you to the deployed webpage <https://agworkgit.github.io/seolite-landing-page/>
+The following link will take you to the deployed webpage <https://agworkgit.github.io/ag-portfolio-website/>
 
 ## License
 
